@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "NFT",
+      "value" : "Soulbound"
+    }, {
+      "trait_type" : "Asset",
+      "value" : "Non-transferable Access NFT"
+    }   ],
+    "description" : "This is a soulbound token granting access to exclusive early Vaults on Aspis Protocol",
+    "image" : "https://aqua-magnificent-camel-41.mypinata.cloud/ipfs/QmVsEoptmCLw5sypAAgr6r7L8p6jwtzqgoHqkYVBt6NRmr",
+    "name" : "Aspis Early Access NFT"
+}
